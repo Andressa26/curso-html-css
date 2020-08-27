@@ -149,3 +149,7 @@ td, th{
 .imgbeneficios{
     width:  60%;
 }
+.utensilios{
+    width: 150px;
+    float: left;
+}
