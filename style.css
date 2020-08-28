@@ -80,11 +80,9 @@ footer{
     margin-top: 20px;
 }
 
-main{
-
-}
 form{
-    margin: 40px 0;
+    width: 940px;
+    margin: 40px 2px 40px  15%; 
 }
 form label, form legend{
     display: block;
@@ -101,8 +99,8 @@ form label, form legend{
     margin: 20px 0;
 }
 .enviar{
-    width: 41%;
-    padding: 15px 0;
+    width: auto;
+    padding: 15px 5px;
     background: orange;
     color: white;
     font-weight: bold;
@@ -117,8 +115,8 @@ form label, form legend{
     transform: scale(1.2);
 }
 table{
-    margin: 20px 0 40px;
-    width: 40%;
+    margin: 40px 0 40px  15%; ;
+    width: 40%;   
 }
 thead{
     background: #555555;
@@ -231,6 +229,9 @@ td, th{
     .produtos{
         width: auto;
         margin: 0 10px;       
+    }
+    form{
+        width: auto;      
     }
 
 }
