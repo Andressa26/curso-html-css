@@ -224,4 +224,13 @@ td, th{
     .lista-beneficios, .img-beneficios{
         width: 100%;
     }
+    .produtos li{
+        width: auto;
+        margin: 3% 1.5%;
+    }
+    .produtos{
+        width: auto;
+        margin: 0 10px;       
+    }
+
 }
