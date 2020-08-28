@@ -178,6 +178,9 @@ td, th{
 .itens:first-child{
     font-weight: bold;
 }
+.itens:before{
+    content: "★";
+}
 .beneficios{
     padding: 3em 0;
     background: #888888;
