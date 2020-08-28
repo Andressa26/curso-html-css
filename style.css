@@ -18,7 +18,7 @@ nav{
 nav li{
     display: inline;
     align-content: top;
-    margin-left: 0 0 0 15px;
+    margin-left: 15px;
 }
 nav a{
     text-transform: uppercase;
